@@ -17,4 +17,4 @@ A Python-based academic management tool designed to help university students tra
 ## 🚀 How to Run
 1. Clone this repository.
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the script: `python grade_pro_v2.py`
+3. Run the script: `python.py`
